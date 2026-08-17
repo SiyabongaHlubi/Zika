@@ -61,7 +61,7 @@
 			<recombinantReplicator>
 				
 				<dualInfectionProbability>0.1</dualInfectionProbability>
-				<recombinationProbability>0.010</recombinationProbability>
+				<recombinationProbability>0.005</recombinationProbability>
 			</recombinantReplicator>
 		</replicator>
 
